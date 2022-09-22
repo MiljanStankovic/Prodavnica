@@ -100,7 +100,8 @@ class ProizvodController extends Controller
     }
 
     /**
-     * Remove the specified resource from storage.
+     * Remove the specified resource from storage
+     * 
      *
      * @param  \App\Models\Proizvod  $proizvod
      * @return \Illuminate\Http\Response
